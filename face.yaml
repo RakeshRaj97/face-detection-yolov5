@@ -1,4 +1,4 @@
-train: ../input/wider-face-in-yolov5-format/face_data/images/train
-val: ../input/wider-face-in-yolov5-format/face_data/images/validation
+train: /kaggle/working/input/wider-face-in-yolov5-format/face_data/images/train
+val: /kaggle/working/input/wider-face-in-yolov5-format/face_data/images/validation
 nc: 1
 names: ["face"]
