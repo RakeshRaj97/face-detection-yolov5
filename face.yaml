@@ -1,0 +1,4 @@
+train: /fred/oz138/test/face/yolov5/face_data/images/train
+val: /fred/oz138/test/face/yolov5/face_data/images/validation
+nc: 1
+names: ["face"]
